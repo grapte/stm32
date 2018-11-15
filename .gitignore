@@ -1,0 +1,17 @@
+.vscode/
+.fleet/
+.idea/
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+*.TMP
+*.dbgconf
+*.scvd
+*.uvoptx
+Listings
+Objects
+RTE

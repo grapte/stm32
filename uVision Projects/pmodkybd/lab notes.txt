@@ -1,0 +1,7 @@
+ - missed the gpio I as input for the longest time
+
+ - screen refreshing very fast
+
+ - words showing up behind
+
+ - 

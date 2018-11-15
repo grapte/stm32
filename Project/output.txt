@@ -1,0 +1,208 @@
+$ ./blueuart.py -f Wallpapers\ -\ itzartemis/ -c 100
+/dev/cu.Embedded2-DevB
+set stty speed
+waiting for greet
+b'Hello World!\n\r'
+greeted
+responding
+sending Wallpapers - itzartemis//Misc3.jpg
+time elapsed 37.984726638000005
+sending Wallpapers - itzartemis//Water8.jpg
+time elapsed 38.08015426200001
+sending Wallpapers - itzartemis//Nature23.jpg
+time elapsed 44.45918300299999
+sending Wallpapers - itzartemis//Mountains30.jpg
+time elapsed 38.42597284100002
+sending Wallpapers - itzartemis//Water13.jpg
+time elapsed 39.78605699800002
+sending Wallpapers - itzartemis//Nature17.jpg
+time elapsed 39.061624843999994
+sending Wallpapers - itzartemis//Mountains27.png
+time elapsed 39.475818747000005
+sending Wallpapers - itzartemis//Nature10.jpg
+time elapsed 38.944295947
+sending Wallpapers - itzartemis//LandWater10.jpg
+time elapsed 38.61776548299997
+sending Wallpapers - itzartemis//Nature11.jpg
+time elapsed 38.129414741999994
+sending Wallpapers - itzartemis//Nature14.png
+time elapsed 38.54515091999997
+sending Wallpapers - itzartemis//Water3.jpg
+time elapsed 38.26013143899996
+sending Wallpapers - itzartemis//Nature14.png
+time elapsed 38.44363962500006
+sending Wallpapers - itzartemis//Sand2.jpg
+time elapsed 38.165902752999955
+sending Wallpapers - itzartemis//wall0.png
+time elapsed 38.467367914999954
+sending Wallpapers - itzartemis//Misc4.jpg
+time elapsed 38.45772029500006
+sending Wallpapers - itzartemis//Mountains6.jpg
+time elapsed 38.78254630399999
+sending Wallpapers - itzartemis//Wheat4.jpg
+time elapsed 38.71336446700002
+sending Wallpapers - itzartemis//Water5.jpg
+time elapsed 37.82617338399996
+sending Wallpapers - itzartemis//Nature19.jpg
+time elapsed 41.249866140999984
+sending Wallpapers - itzartemis//Wheat2.jpg
+time elapsed 44.071463311
+sending Wallpapers - itzartemis//Nature24.jpg
+time elapsed 44.74736218399994
+sending Wallpapers - itzartemis//LandWater11.jpg
+time elapsed 45.35552127900007
+sending Wallpapers - itzartemis//City7.jpg
+time elapsed 45.38713978199996
+sending Wallpapers - itzartemis//LandWater11.jpg
+time elapsed 45.34707347899996
+sending Wallpapers - itzartemis//Mountains21.jpg
+time elapsed 45.715636648999975
+sending Wallpapers - itzartemis//Space4.jpg
+time elapsed 45.262783563000085
+sending Wallpapers - itzartemis//City3.png
+time elapsed 45.72981178200007
+sending Wallpapers - itzartemis//LandWater5.jpg
+time elapsed 45.59319117900009
+sending Wallpapers - itzartemis//Nature20.jpg
+time elapsed 45.793760754999994
+sending Wallpapers - itzartemis//Nature33.jpg
+time elapsed 45.83440939100001
+sending Wallpapers - itzartemis//Space3.jpg
+time elapsed 45.72987293899996
+sending Wallpapers - itzartemis//Colour3.jpg
+time elapsed 41.792667029000086
+sending Wallpapers - itzartemis//Mountains30.jpg
+time elapsed 37.61439306800003
+sending Wallpapers - itzartemis//Water3.jpg
+time elapsed 38.47822505099998
+sending Wallpapers - itzartemis//Wheat2.jpg
+time elapsed 38.38214391099996
+sending Wallpapers - itzartemis//wall0.png
+time elapsed 38.53528409600017
+sending Wallpapers - itzartemis//Misc3.jpg
+time elapsed 38.474934704000134
+sending Wallpapers - itzartemis//Misc8.jpg
+time elapsed 38.248108338000065
+sending Wallpapers - itzartemis//Nature22.jpg
+time elapsed 38.2500596660002
+sending Wallpapers - itzartemis//City1.jpg
+time elapsed 38.11342331800006
+sending Wallpapers - itzartemis//Mountains5.jpg
+time elapsed 38.448018284
+sending Wallpapers - itzartemis//Nature32.jpg
+time elapsed 37.89555105299996
+sending Wallpapers - itzartemis//Nature28.jpg
+time elapsed 37.992419274999975
+sending Wallpapers - itzartemis//Nature5.jpg
+time elapsed 37.85810314100013
+sending Wallpapers - itzartemis//Nature19.jpg
+time elapsed 37.81466729199997
+sending Wallpapers - itzartemis//Colour11.jpg
+time elapsed 37.88299650599993
+sending Wallpapers - itzartemis//Mountains31.jpg
+time elapsed 37.89007034600013
+sending Wallpapers - itzartemis//Wheat1.jpg
+time elapsed 38.030472676000045
+sending Wallpapers - itzartemis//Nature9.jpg
+time elapsed 37.67302582299999
+sending Wallpapers - itzartemis//Colour13.jpg
+time elapsed 37.72583316100008
+sending Wallpapers - itzartemis//Colour9.png
+time elapsed 37.85647364700026
+sending Wallpapers - itzartemis//Mountains26.png
+time elapsed 37.946832467999684
+sending Wallpapers - itzartemis//Water1.jpg
+time elapsed 38.208804770999905
+sending Wallpapers - itzartemis//Mountains8.jpeg
+time elapsed 37.9503402790001
+sending Wallpapers - itzartemis//Nature23.jpg
+time elapsed 37.94047265900008
+sending Wallpapers - itzartemis//Nature17.jpg
+time elapsed 38.05019072799996
+sending Wallpapers - itzartemis//LandWater11.jpg
+time elapsed 38.261257959999966
+sending Wallpapers - itzartemis//Nature35.jpg
+time elapsed 38.008489443000144
+sending Wallpapers - itzartemis//City7.jpg
+time elapsed 38.06644281199988
+sending Wallpapers - itzartemis//Mountains20.jpg
+time elapsed 38.18195561600032
+sending Wallpapers - itzartemis//Wheat4.jpg
+time elapsed 38.162169748
+sending Wallpapers - itzartemis//Nature19.jpg
+time elapsed 38.199812992999796
+sending Wallpapers - itzartemis//Nature15.jpg
+time elapsed 38.11121522400026
+sending Wallpapers - itzartemis//Water8.jpg
+time elapsed 38.16115078599978
+sending Wallpapers - itzartemis//Misc4.jpg
+time elapsed 38.07489204700005
+sending Wallpapers - itzartemis//Nature3.jpg
+time elapsed 38.450877783000124
+sending Wallpapers - itzartemis//Nature33.jpg
+time elapsed 38.60077196300017
+sending Wallpapers - itzartemis//Mountains7.jpg
+time elapsed 38.805720220999774
+sending Wallpapers - itzartemis//Mountains4.jpg
+time elapsed 38.881830849999915
+sending Wallpapers - itzartemis//Mountains1.jpg
+time elapsed 38.800419280999904
+sending Wallpapers - itzartemis//LandWater11.jpg
+time elapsed 38.08572372399976
+sending Wallpapers - itzartemis//Water13.jpg
+time elapsed 37.72872345199994
+sending Wallpapers - itzartemis//Space3.jpg
+time elapsed 38.102584535999995
+sending Wallpapers - itzartemis//Nature8.jpg
+time elapsed 38.26863524500004
+sending Wallpapers - itzartemis//Nature24.jpg
+time elapsed 38.53512315299986
+sending Wallpapers - itzartemis//City6.jpg
+time elapsed 38.19881911199991
+sending Wallpapers - itzartemis//Nature28.jpg
+time elapsed 38.34625862599978
+sending Wallpapers - itzartemis//Nature15.jpg
+time elapsed 38.2192587290001
+sending Wallpapers - itzartemis//Mountains13.jpg
+time elapsed 38.263162416999876
+sending Wallpapers - itzartemis//Nature16.jpg
+time elapsed 38.02070439699992
+sending Wallpapers - itzartemis//LandWater9.jpg
+time elapsed 38.23005846099977
+sending Wallpapers - itzartemis//LandWater3.jpg
+time elapsed 38.01073489700002
+sending Wallpapers - itzartemis//Space4.jpg
+time elapsed 38.0687661740003
+sending Wallpapers - itzartemis//Wheat2.jpg
+time elapsed 38.39026062500034
+sending Wallpapers - itzartemis//City5.jpg
+time elapsed 38.011671578999994
+sending Wallpapers - itzartemis//Mountains28.jpg
+time elapsed 38.152379600999666
+sending Wallpapers - itzartemis//Nature21.jpg
+time elapsed 38.63391797200029
+sending Wallpapers - itzartemis//Mountains24.jpg
+time elapsed 38.61204519800003
+sending Wallpapers - itzartemis//Misc6.png
+time elapsed 37.98913581199986
+sending Wallpapers - itzartemis//Space4.jpg
+time elapsed 38.770885733999876
+sending Wallpapers - itzartemis//Nature20.jpg
+time elapsed 38.1749297880001
+sending Wallpapers - itzartemis//Nature19.jpg
+time elapsed 38.593117873999745
+sending Wallpapers - itzartemis//Sand1.jpg
+time elapsed 38.34044068000003
+sending Wallpapers - itzartemis//Colour13.jpg
+time elapsed 38.05052370900012
+sending Wallpapers - itzartemis//Nature34.jpg
+time elapsed 38.09688053900027
+sending Wallpapers - itzartemis//Mountains24.jpg
+time elapsed 38.14521038800012
+sending Wallpapers - itzartemis//Space3.jpg
+time elapsed 37.95360704600034
+sending Wallpapers - itzartemis//Nature2.jpg
+time elapsed 38.05288723299964
+sending Wallpapers - itzartemis//Water13.jpg
+time elapsed 38.369669376000274
+finished
